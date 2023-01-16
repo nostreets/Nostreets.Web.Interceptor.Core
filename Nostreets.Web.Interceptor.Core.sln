@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nostreets.Web.Interceptor.Core", "Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core.csproj", "{4BA30241-9A42-4976-B53A-F88A9A60E747}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nostreets.Extensions.Core", "..\Nostreets.Extensions.Core\Nostreets.Extensions.Core\Nostreets.Extensions.Core.csproj", "{AB50E925-13B0-4023-854B-5704CD5CFC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA30241-9A42-4976-B53A-F88A9A60E747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA30241-9A42-4976-B53A-F88A9A60E747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA30241-9A42-4976-B53A-F88A9A60E747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA30241-9A42-4976-B53A-F88A9A60E747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB50E925-13B0-4023-854B-5704CD5CFC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB50E925-13B0-4023-854B-5704CD5CFC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB50E925-13B0-4023-854B-5704CD5CFC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB50E925-13B0-4023-854B-5704CD5CFC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A81B9F9-7E80-4C7B-A1EE-2EAD71A9B04E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\bin\Debug\net6.0\Nostreets.Web.Interceptor.Core.deps.json
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\bin\Debug\net6.0\Nostreets.Web.Interceptor.Core.runtimeconfig.json
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\bin\Debug\net6.0\Nostreets.Web.Interceptor.Core.dll
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\bin\Debug\net6.0\Nostreets.Web.Interceptor.Core.pdb
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\bin\Debug\net6.0\Nostreets.Extensions.Core.dll
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\bin\Debug\net6.0\Nostreets.Extensions.Core.pdb
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.csproj.AssemblyReference.cache
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.AssemblyInfoInputs.cache
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.AssemblyInfo.cs
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.csproj.CoreCompileInputs.cache
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.csproj.CopyComplete
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.dll
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\refint\Nostreets.Web.Interceptor.Core.dll
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.pdb
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\Nostreets.Web.Interceptor.Core.genruntimeconfig.cache
+C:\Git\nostreets\Nostreets.Web.Interceptor.Core\Nostreets.Web.Interceptor.Core\obj\Debug\net6.0\ref\Nostreets.Web.Interceptor.Core.dll
